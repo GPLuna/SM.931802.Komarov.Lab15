@@ -1,0 +1,40 @@
+C:\Users\marin\OneDrive\Рабочий стол\3 курс\Имитационное моделирование\Lab15\Lab15\bin\Debug\Lab15.exe.config
+C:\Users\marin\OneDrive\Рабочий стол\3 курс\Имитационное моделирование\Lab15\Lab15\bin\Debug\Lab15.exe
+C:\Users\marin\OneDrive\Рабочий стол\3 курс\Имитационное моделирование\Lab15\Lab15\bin\Debug\Lab15.pdb
+C:\Users\marin\OneDrive\Рабочий стол\3 курс\Имитационное моделирование\Lab15\Lab15\obj\Debug\Lab15.csproj.AssemblyReference.cache
+C:\Users\marin\OneDrive\Рабочий стол\3 курс\Имитационное моделирование\Lab15\Lab15\obj\Debug\Lab15.Form1.resources
+C:\Users\marin\OneDrive\Рабочий стол\3 курс\Имитационное моделирование\Lab15\Lab15\obj\Debug\Lab15.Properties.Resources.resources
+C:\Users\marin\OneDrive\Рабочий стол\3 курс\Имитационное моделирование\Lab15\Lab15\obj\Debug\Lab15.csproj.GenerateResource.cache
+C:\Users\marin\OneDrive\Рабочий стол\3 курс\Имитационное моделирование\Lab15\Lab15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+C:\Users\marin\OneDrive\Рабочий стол\3 курс\Имитационное моделирование\Lab15\Lab15\obj\Debug\Lab15.exe
+C:\Users\marin\OneDrive\Рабочий стол\3 курс\Имитационное моделирование\Lab15\Lab15\obj\Debug\Lab15.pdb
+C:\Documents\Delete later\Pospelova.lab15-main\Lab15\Lab15\bin\Debug\Lab15.exe.config
+C:\Documents\Delete later\Pospelova.lab15-main\Lab15\Lab15\bin\Debug\Lab15.exe
+C:\Documents\Delete later\Pospelova.lab15-main\Lab15\Lab15\bin\Debug\Lab15.pdb
+C:\Documents\Delete later\Pospelova.lab15-main\Lab15\Lab15\obj\Debug\Lab15.csproj.AssemblyReference.cache
+C:\Documents\Delete later\Pospelova.lab15-main\Lab15\Lab15\obj\Debug\Lab15.Form1.resources
+C:\Documents\Delete later\Pospelova.lab15-main\Lab15\Lab15\obj\Debug\Lab15.Properties.Resources.resources
+C:\Documents\Delete later\Pospelova.lab15-main\Lab15\Lab15\obj\Debug\Lab15.csproj.GenerateResource.cache
+C:\Documents\Delete later\Pospelova.lab15-main\Lab15\Lab15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+C:\Documents\Delete later\Pospelova.lab15-main\Lab15\Lab15\obj\Debug\Lab15.exe
+C:\Documents\Delete later\Pospelova.lab15-main\Lab15\Lab15\obj\Debug\Lab15.pdb
+C:\Users\ankom\Desktop\Doc\Антон\Имитационное моделирование\Pospelova.lab15-main\Lab15\Lab15\bin\Debug\Lab15.exe.config
+C:\Users\ankom\Desktop\Doc\Антон\Имитационное моделирование\Pospelova.lab15-main\Lab15\Lab15\bin\Debug\Lab15.exe
+C:\Users\ankom\Desktop\Doc\Антон\Имитационное моделирование\Pospelova.lab15-main\Lab15\Lab15\bin\Debug\Lab15.pdb
+C:\Users\ankom\Desktop\Doc\Антон\Имитационное моделирование\Pospelova.lab15-main\Lab15\Lab15\obj\Debug\Lab15.csprojAssemblyReference.cache
+C:\Users\ankom\Desktop\Doc\Антон\Имитационное моделирование\Pospelova.lab15-main\Lab15\Lab15\obj\Debug\Lab15.Form1.resources
+C:\Users\ankom\Desktop\Doc\Антон\Имитационное моделирование\Pospelova.lab15-main\Lab15\Lab15\obj\Debug\Lab15.Properties.Resources.resources
+C:\Users\ankom\Desktop\Doc\Антон\Имитационное моделирование\Pospelova.lab15-main\Lab15\Lab15\obj\Debug\Lab15.csproj.GenerateResource.cache
+C:\Users\ankom\Desktop\Doc\Антон\Имитационное моделирование\Pospelova.lab15-main\Lab15\Lab15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+C:\Users\ankom\Desktop\Doc\Антон\Имитационное моделирование\Pospelova.lab15-main\Lab15\Lab15\obj\Debug\Lab15.exe
+C:\Users\ankom\Desktop\Doc\Антон\Имитационное моделирование\Pospelova.lab15-main\Lab15\Lab15\obj\Debug\Lab15.pdb
+C:\Users\ankom\Desktop\Doc\Антон\Имитационное моделирование\SM.Komarov\Lab15\Lab15\bin\Debug\Lab15.exe.config
+C:\Users\ankom\Desktop\Doc\Антон\Имитационное моделирование\SM.Komarov\Lab15\Lab15\bin\Debug\Lab15.exe
+C:\Users\ankom\Desktop\Doc\Антон\Имитационное моделирование\SM.Komarov\Lab15\Lab15\bin\Debug\Lab15.pdb
+C:\Users\ankom\Desktop\Doc\Антон\Имитационное моделирование\SM.Komarov\Lab15\Lab15\obj\Debug\Lab15.csprojAssemblyReference.cache
+C:\Users\ankom\Desktop\Doc\Антон\Имитационное моделирование\SM.Komarov\Lab15\Lab15\obj\Debug\Lab15.Form1.resources
+C:\Users\ankom\Desktop\Doc\Антон\Имитационное моделирование\SM.Komarov\Lab15\Lab15\obj\Debug\Lab15.Properties.Resources.resources
+C:\Users\ankom\Desktop\Doc\Антон\Имитационное моделирование\SM.Komarov\Lab15\Lab15\obj\Debug\Lab15.csproj.GenerateResource.cache
+C:\Users\ankom\Desktop\Doc\Антон\Имитационное моделирование\SM.Komarov\Lab15\Lab15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+C:\Users\ankom\Desktop\Doc\Антон\Имитационное моделирование\SM.Komarov\Lab15\Lab15\obj\Debug\Lab15.exe
+C:\Users\ankom\Desktop\Doc\Антон\Имитационное моделирование\SM.Komarov\Lab15\Lab15\obj\Debug\Lab15.pdb
